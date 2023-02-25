@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- Hi, my name is Vijayan.
+- [My Portfolio Website](https://techpulsetoday.com/)
+
+[![Vijayan's GitHub stats](https://github-readme-stats.vercel.app/api?username=techpulsetoday&show_icons=true&theme=blue-green)](https://techpulsetoday.com/)
+
 <!--
 **techpulsetoday/techpulsetoday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
